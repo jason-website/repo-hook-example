@@ -1,0 +1,3 @@
+#!/bin/bash
+set -ueo pipefail
+ehco "this is command from repo-hook-example"
