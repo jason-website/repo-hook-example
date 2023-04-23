@@ -1,0 +1,3 @@
+#!/bin/bash
+set -euo pipefail
+echo "post command from repository hook"
